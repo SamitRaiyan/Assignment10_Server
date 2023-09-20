@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "name": "John Doe",
+        "sex": "male",
+        "age": 35,
+        "experience": 8,
+        "total_recipes": 15,
+        "bio":"Chef John Doe is a renowned culinary expert with over 8 years of experience in the industry. He has worked in some of the world's top restaurants, earning accolades for his creative and innovative cuisine. Chef Doe is particularly known for his use of locally sourced ingredients and his commitment to sustainability in the food industry. In addition to his work in the kitchen, he is also a passionate advocate for culinary education and often volunteers his time to mentor aspiring chefs.",
+        "total_likes": 78,
+        "img": "https://10play.com.au/ip/s3/2021/04/14/0d185a25c6ce21fb38efaab75a2c57cd-1048565.jpg?image-profile=bio_full&io=portrait"
+    },
+    {
+        "id": "2",
+        "name": "Jane Smith",
+        "sex": "female",
+        "age": 28,
+        "experience": 4,
+        "total_recipes": 19,
+        "bio":"Jane Smith is a talented chef with a passion for creating healthy and delicious dishes. She has over a decade of experience in the culinary industry, and has worked in a variety of restaurants and catering companies. Chef Smith is known for her focus on using fresh, seasonal ingredients to create flavorful and nutritious meals. ",
+        "total_likes": 110,
+        "img": "https://10play.com.au/ip/s3/2021/04/14/7a26a2fd337e8ed7f02f9a1793417221-1048502.jpg?image-profile=bio_full&io=portrait"
+    },
+    {
+        "id": "3",
+        "name": "David Johnson",
+        "sex": "male",
+        "age": 45,
+        "bio":"David Johnson is a seasoned chef with over 20 years of experience in the culinary world. He has worked in numerous fine dining establishments and has a passion for creating classic dishes with a modern twist. Chef Johnson is known for his attention to detail and his use of high-quality ingredients to create dishes that are both visually stunning and delicious.",
+        "experience": 12,
+        "total_recipes": 16,
+        "total_likes": 92,
+        "img": "https://www.themasterchefs.com/wp-content/uploads/2017/12/edit-2-Vivek.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Maria Garcia",
+        "sex": "female",
+        "age": 31,
+        "bio":"Chef Maria Garcia is a highly skilled chef with a passion for creating unique and delicious dishes. With over 15 years of experience in the culinary industry, she has honed her craft in various restaurants and hotels. Chef Garcia is known for her innovative use of fresh ingredients and her ability to create dishes that are both beautiful and flavorful.",
+        "experience": 6,
+        "total_recipes": 19,
+        "total_likes": 150,
+        "img": "https://10play.com.au/ip/s3/2021/04/14/1ae5f7603b8b0d5668435a74137b2c36-1048554.jpg?image-profile=bio_full&io=portrait"
+    },
+    {
+        "id": "5",
+        "name": "Robert Lee",
+        "sex": "male",
+        "age": 50,
+        "bio":"Chef Robert Lee is a highly skilled and creative chef with over 20 years of experience in the culinary industry. He discovered his passion for cooking at a young age and pursued his dream by attending culinary school. After graduation, he worked in various restaurants and hotels, honing his skills and developing his own unique style.",
+        "experience": 15,
+        "total_recipes": 18,
+        "total_likes": 120,
+        "img": "https://10play.com.au/ip/s3/2021/04/14/cc89b8d318bc1e1c8e036221aec62609-1048463.jpg?image-profile=bio_full&io=portrait"
+    },
+    {
+        "id": "6",
+        "name": "Samantha Brown",
+        "sex": "female",
+        "age": 29,
+        "experience": 5,
+        "bio":"Samantha is a rising star in the culinary world, with a talent for creating innovative and flavorful dishes. She has been working in the industry for over 5 years, and has quickly gained a reputation for her creative use of ingredients and bold flavor combinations. Chef Samantha is passionate about using food to bring people together and create memorable dining experiences.",
+        "total_recipes": 12,
+        "total_likes": 90,
+        "img": "https://10play.com.au/ip/s3/2021/04/14/d42b7851528a21a024a2ec459aee3299-1048501.jpg?image-profile=bio_full&io=portrait"
+    }
+]
